@@ -669,7 +669,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 ## Data Structures and Algorithms
 
 <details>
-<summary>Data Structures and Algorithms (DSA)</summary>
+<summary>Data Structures and Algorithms</summary>
 
 - [ ] [DSA](https://adrianmejia.com/categories/programming/data-structures-and-algorithms-dsa/)
 
