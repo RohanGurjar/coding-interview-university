@@ -83,7 +83,7 @@ If you want to be a reliability engineer or operations engineer, study more from
     - [Stack](#stack)
     - [Queue](#queue)
     - [Hash table](#hash-table)
-- [Data Structures and Algorithms (DSA)](#datastructures-and-algorithms)
+- [Data Structures and Algorithms](#datastructures-and-algorithms)
 - [More Knowledge](#more-knowledge)
     - [Binary search](#binary-search)
     - [Bitwise operations](#bitwise-operations)
@@ -666,7 +666,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 
 </details>
 
-## Data Structures and Algorithms (DSA)
+## Data Structures and Algorithms
 
 <details>
 <summary>Data Structures and Algorithms (DSA)</summary>
