@@ -83,6 +83,7 @@ If you want to be a reliability engineer or operations engineer, study more from
     - [Stack](#stack)
     - [Queue](#queue)
     - [Hash table](#hash-table)
+- [Data Structures and Algorithms (DSA)](#datastructures-and-algorithms)
 - [More Knowledge](#more-knowledge)
     - [Binary search](#binary-search)
     - [Bitwise operations](#bitwise-operations)
@@ -662,6 +663,15 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - exists(key)
         - get(key)
         - remove(key)
+
+</details>
+
+## Data Structures and Algorithms (DSA)
+
+<details>
+<summary>Data Structures and Algorithms (DSA)</summary>
+
+- [ ] [DSA](https://adrianmejia.com/categories/programming/data-structures-and-algorithms-dsa/)
 
 </details>
 
@@ -1559,7 +1569,7 @@ These topics will likely not come up in an interview, but I added them to help y
 software engineer, and to be aware of certain technologies and algorithms, so you'll have a bigger toolbox.
 
 - ### Compilers
-    - [ ] [How a Compiler Works in ~1 minute (video)](https://www.youtube.com/watch?v=IhC7sdYe-Jg)
+    - [X] [How a Compiler Works in ~1 minute (video)](https://www.youtube.com/watch?v=IhC7sdYe-Jg)
     - [ ] [Harvard CS50 - Compilers (video)](https://www.youtube.com/watch?v=CSZLNYF4Klo)
     - [ ] [C++ (video)](https://www.youtube.com/watch?v=twodd1KFfGk)
     - [ ] [Understanding Compiler Optimization (C++) (video)](https://www.youtube.com/watch?v=FnGCDLhaxKU)
